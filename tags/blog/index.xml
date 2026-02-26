@@ -1,4 +1,39 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Blog - 标签 - Manning`s Life</title><link>https://toshaojin.github.io/tags/blog/</link><description>Blog - 标签 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 25 Feb 2026 17:16:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/blog/" rel="self" type="application/rss+xml"/><item><title>捡起来</title><link>https://toshaojin.github.io/posts/2026/02/20260225/</link><pubDate>Wed, 25 Feb 2026 17:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2026/02/20260225/</guid><description>&lt;p>那么多年，重新捡起来？&lt;/p>
-&lt;p>不断试错，继续改进。&lt;/p></description></item><item><title>尝试利用Github Action自动化部署Hugo</title><link>https://toshaojin.github.io/posts/2020/11/20201124/</link><pubDate>Tue, 24 Nov 2020 10:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/11/20201124/</guid><description>&lt;h2 id="又开始折腾博客了">又开始折腾博客了&lt;/h2>
-&lt;p>之前，一直想尝试利用Github Action自动化部署Hugo。但是，本地好不容易搭建，怕又被我自己手贱折腾坏了，然后又是瞎忙活失败。毕竟自己是小白，这类玩意还是需要一定基础的。虽然，自己有时候想是不是学一下这方面的基础，但是大法已经让我有点筋疲力尽的感觉，实在是没有这个精力（允许自己找个理由和接口）。&lt;/p></description></item><item><title>测试</title><link>https://toshaojin.github.io/posts/2020/11/20201119/</link><pubDate>Thu, 19 Nov 2020 22:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/11/20201119/</guid><description>&lt;p>自动化失败&lt;/p></description></item><item><title>开始懒惰</title><link>https://toshaojin.github.io/posts/2020/11/20201114/</link><pubDate>Sat, 14 Nov 2020 22:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/11/20201114/</guid><description>&lt;p>我又开始慢慢偷懒了，本身也不是喜欢记录或写日记的一个人，所以每次想起来也只是感慨一下：哎，怎么忘记记录 blog 了🤣。&lt;/p>
-&lt;p>有时，突然感慨：哇哦，人生过半，意义何在？还记得小时候，会突然对于人死后，自己的一切均归于消灭，感到莫名恐慌，然后又突然释然。&lt;/p></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Blog - Tag - Manning`s Life</title><link>https://toshaojin.github.io/tags/blog/</link><description>Blog - Tag - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 25 Feb 2026 17:16:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/blog/" rel="self" type="application/rss+xml"/><item><title>捡起来</title><link>https://toshaojin.github.io/20260225/</link><pubDate>Wed, 25 Feb 2026 17:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20260225/</guid><description>&lt;p>那么多年，重新捡起来？&lt;/p>
+&lt;p>不断试错，继续改进。&lt;/p></description></item><item><title>尝试利用Github Action自动化部署Hugo</title><link>https://toshaojin.github.io/20201124/</link><pubDate>Tue, 24 Nov 2020 10:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201124/</guid><description><![CDATA[<h2 id="又开始折腾博客了">又开始折腾博客了</h2>
+<p>之前，一直想尝试利用Github Action自动化部署Hugo。但是，本地好不容易搭建，怕又被我自己手贱折腾坏了，然后又是瞎忙活失败。毕竟自己是小白，这类玩意还是需要一定基础的。虽然，自己有时候想是不是学一下这方面的基础，但是大法已经让我有点筋疲力尽的感觉，实在是没有这个精力（允许自己找个理由和接口）。</p>
+<p>这次本着“即便搞砸也要尝试”的决心，还是动手尝试了。新鲜玩意儿，总有让人一股莫名的冲动。</p>
+<h2 id="利用submodules管理theme">利用submodules管理Theme</h2>
+<p>借鉴了很多文章，网络上太多大佬，这个还比较容易。主要参考了这篇文章<a href="https://juejin.cn/post/6844903751908605965" target="_blank" rel="noopener noreffer ">在 hexo 中使用 git submodules 管理主題</a>。</p>
+<h3 id="使用">使用</h3>
+<p><code>git submodule add [主题链接] [主题存放目录] </code></p>
+<p>如果是在博客根目录，则存放目录为themes/[主题名称]；如果是在themes目录，则存放目录只要写[主题名称]。根据之前看过的教程，自己选择的主题，fork了一份到自己的GitHub。</p>
+<p>完成后，在博客根目录会产生一个.gitmodules的文件。内容为：</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-bash">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">[</span>submodule <span class="s2">&#34;themes/[主题名称]&#34;</span><span class="o">]</span> 
+</span></span><span class="line"><span class="cl"><span class="nv">path</span> <span class="o">=</span> themes/<span class="o">[</span>主题名称<span class="o">]</span>
+</span></span><span class="line"><span class="cl"><span class="nv">url</span> <span class="o">=</span> <span class="o">[</span>主题链接<span class="o">]</span></span></span></code></pre></div></div>
+<h3 id="更新">更新</h3>
+<p>根据教程，更新也是比较容易的。若主题作者有更新， 可通过两种方法来拉取主题的更新内容.</p>
+<ol>
+<li>进入<code>themes</code> 下主题目录, 执行 <code>git fetch</code> 和 <code>git merge origin/master</code> 来 merge 上游分支的修改</li>
+<li>直接运行 <code>git submodule update --remote</code>, Git 将会自动进入子模块然后抓取并更新</li>
+</ol>
+<p>更新后重新提交一遍, 子模块新的跟踪信息便也会记录到仓库中。像我采用fork了一份，应该重新fork一下就可以了吧？</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-bash">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git submodule init
+</span></span><span class="line"><span class="cl">git submodule update</span></span></code></pre></div></div>
+<h3 id="删除子模块">删除子模块</h3>
+<p>因为自己在添加子模块过程添加错误，导致需要删除。于是，搜索了一番：</p>]]></description></item><item><title>测试</title><link>https://toshaojin.github.io/20201119/</link><pubDate>Thu, 19 Nov 2020 22:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201119/</guid><description>&lt;p>自动化失败&lt;/p></description></item><item><title>开始懒惰</title><link>https://toshaojin.github.io/20201114/</link><pubDate>Sat, 14 Nov 2020 22:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201114/</guid><description><![CDATA[<p>我又开始慢慢偷懒了，本身也不是喜欢记录或写日记的一个人，所以每次想起来也只是感慨一下：哎，怎么忘记记录 blog 了🤣。</p>
+<p>有时，突然感慨：哇哦，人生过半，意义何在？还记得小时候，会突然对于人死后，自己的一切均归于消灭，感到莫名恐慌，然后又突然释然。</p>
+<p>小子大了之后，经历过亲人的离世，也偶尔对我说，他不想死。然后，我只能宽慰到：你还小，死亡离你很远，如果怕死，那么是否应该好好珍惜时间，不要浪费每分每秒。</p>
+<p>最近机缘巧合，被同事拉入养鱼坑了。先是给我捎来鱼缸和过滤器，然后是灯，接着是兰寿，一条、两条，各类🐟食…
+失败的是，其中一条鱼，运输途中被震伤鱼漂，虽然极力挽救还是死了。另外一条，养了一周，失手多喂了鱼食，结果撑死挂了。巧的是，这俩条鱼是同一天死的🙄</p>
+<p>现在，养着几条小鱼，死了也不心疼啊。不养不知道，死的那俩条价格不便宜，深坑。</p>]]></description></item></channel></rss>

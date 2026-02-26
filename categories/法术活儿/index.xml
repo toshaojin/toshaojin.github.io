@@ -1,25 +1,172 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>法术活儿 - 分类 - Manning`s Life</title><link>https://toshaojin.github.io/categories/%E6%B3%95%E6%9C%AF%E6%B4%BB%E5%84%BF/</link><description>法术活儿 - 分类 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 18 Jan 2022 08:52:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/categories/%E6%B3%95%E6%9C%AF%E6%B4%BB%E5%84%BF/" rel="self" type="application/rss+xml"/><item><title>如何区分挂靠还是转包</title><link>https://toshaojin.github.io/posts/2022/01/20220118/</link><pubDate>Tue, 18 Jan 2022 08:52:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2022/01/20220118/</guid><description><![CDATA[<p>（2019）最高法民申 729 号民事裁定书中对挂靠和转包的区别进行了认定：</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>法术活儿 - Category - Manning`s Life</title><link>https://toshaojin.github.io/categories/%E6%B3%95%E6%9C%AF%E6%B4%BB%E5%84%BF/</link><description>法术活儿 - Category - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Jan 2022 08:52:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/categories/%E6%B3%95%E6%9C%AF%E6%B4%BB%E5%84%BF/" rel="self" type="application/rss+xml"/><item><title>如何区分挂靠还是转包</title><link>https://toshaojin.github.io/20220118/</link><pubDate>Tue, 18 Jan 2022 08:52:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20220118/</guid><description><![CDATA[<p>（2019）最高法民申 729 号民事裁定书中对挂靠和转包的区别进行了认定：</p>
 <blockquote>
-<p>区分转包和挂靠主要应从实际施工人（挂靠人）有没有参与投标和合同订立等缔约磋商阶段的活动加以判断。</p>]]></description></item><item><title>合同联立</title><link>https://toshaojin.github.io/posts/2022/01/20220117/</link><pubDate>Mon, 17 Jan 2022 08:52:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2022/01/20220117/</guid><description><![CDATA[<p>所谓合同联立，是指数个合同（典型与非典型）具有一定依存关系的相互结合，<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>即以当事人之意思，一个合同的效力依存于另一个合同的效力，其中一个合同不成立、无效、撤销或解除时，另一个合同也同其命运。</p>
-<p>多份合同之间是否属于合同联立，应当以多份合同是否具有经济上的整体性为判断，也即多份合同之间是否形成密切关系，以至于两个合同都作为法律上的整体，或者至少是经济上的整体而相互补充，如果不订立其中一个合同，则另外一个合同也不会被订立，或者其中一个合同的存在以另一个合同的存在为依据。</p>]]></description></item><item><title>承担了保证责任的保证人对债务人追偿的权利范围</title><link>https://toshaojin.github.io/posts/2021/03/20210325/</link><pubDate>Thu, 25 Mar 2021 14:52:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2021/03/20210325/</guid><description><![CDATA[<p>《民法典》第七百条规定</p>
+<p>区分转包和挂靠主要应从实际施工人（挂靠人）有没有参与投标和合同订立等缔约磋商阶段的活动加以判断。</p>
+</blockquote>
 <blockquote>
-<p>保证人承担保证责任后,除当事人另有约定外,有权在其承担保证责任的范围内向债务人追偿,享有债权人对债务人的权利,但是不得损害债权人的利益。</p>]]></description></item><item><title>保全错误责任的归责</title><link>https://toshaojin.github.io/posts/2021/03/20210309/</link><pubDate>Tue, 09 Mar 2021 16:52:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2021/03/20210309/</guid><description><![CDATA[<p>《民事诉讼法》第一百零五条规定</p>
+<p><strong>转包</strong>是承包人承接工程后将工程的权利义务概括转移给实际施工人，转包中的实际施工人一般并未参与招投标和订立总承包合同，其承接工程的意愿一般是在总承包合同签订之后。</p>
+</blockquote>
+<blockquote>
+<p><strong>挂靠</strong>是承包人出借资质给实际施工人，挂靠关系中的挂靠人在投标和合同订立阶段一般就已经参与，甚至就是其以被挂靠人的代理人或代表的名义与发包人签订建设工程施工合同。</p>
+</blockquote>
+<blockquote>
+<p>一般而言，应当根据投标保证金的缴纳主体和资金来源、实际施工人（挂靠人）是否以承包人的委托代理人身份签订合同、实际施工人（挂靠人）有没有与发包人就合同事宜进行磋商等因素，审查认定属于挂靠还是转包。</p>
+</blockquote>
+<p>从法律效果来看，两者所产生的合同，也存在不同：</p>
+<p>最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）第一条第一款规定了施工合同的无效情形<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>，其中资质挂靠系情形之一，即意味着如果存在挂靠，发包人与承包人之间的施工合同将被认定为无效，此时视为挂靠人与发包人之间直接形成无效合同法律关系。</p>
+<p>而在转包情况下，承包人与实际施工人之间的合同才会被认定无效，发包人与承包人之间的施工合同仍有效。</p>
+<p>同时，依据上述司法解释第三十五条规定<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>，只有与发包人建立了合同关系的承包人，方能享有优先受偿权。据此，在挂靠情形下，基于挂靠人与发包人直接形成合同关系，则挂靠人可以据此享有优先受偿权。相反，转包情形下，因实际施工人与发包人之间并不存在合同关系，因此其不再享有优先受偿权。</p>
+<p>但是对于挂靠关系，是否真如上述（2019）最高法民申 729 号判决所述，一旦认定实际施工人与被挂靠人之间存在资质挂靠关系，就一概否定发包人与被挂靠承包人之间的施工合同关系呢？还是应当根据具体情况做分析：</p>
+<ol>
+<li>[[发包人知晓挂靠关系，发包人与挂靠人之间直接形成事实合同关系]]；</li>
+<li>[[发包人不知晓的情况下，其为善意相对人，不因挂靠关系的存在而直接认定施工合同无效]]。</li>
+</ol>
+<p>参考文献： <a href="https://mp.weixin.qq.com/s/qdnLr8PpAg42CKYhXb51Vw" target="_blank" rel="noopener noreffer ">是挂靠，还是转包？最高院这个判例终于说清楚了</a></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>建设工程施工合同具有下列情形之一的，应当依据民法典第一百五十三条第一款的规定，认定无效：（一）承包人未取得建筑业企业资质或者超越资质等级的；（二）没有资质的实际施工人借用有资质的建筑施工企业名义的；（三）建设工程必须进行招标而未招标或者中标无效的。&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>与发包人订立建设工程施工合同的承包人，依据民法典第八百零七条的规定请求其承建工程的价款就工程折价或者拍卖的价款优先受偿的，人民法院应予支持。&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description></item><item><title>合同联立</title><link>https://toshaojin.github.io/20220117/</link><pubDate>Mon, 17 Jan 2022 08:52:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20220117/</guid><description><![CDATA[<p>所谓合同联立，是指数个合同（典型与非典型）具有一定依存关系的相互结合，<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>即以当事人之意思，一个合同的效力依存于另一个合同的效力，其中一个合同不成立、无效、撤销或解除时，另一个合同也同其命运。</p>
+<p>多份合同之间是否属于合同联立，应当以多份合同是否具有经济上的整体性为判断，也即多份合同之间是否形成密切关系，以至于两个合同都作为法律上的整体，或者至少是经济上的整体而相互补充，如果不订立其中一个合同，则另外一个合同也不会被订立，或者其中一个合同的存在以另一个合同的存在为依据。</p>
+<p><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>而多份合同之间否具有经济上的整体性，主要采取客观判断标准，即一方当事人签订的数个不同类型合同的相对方之间是否存在合作关系，例如其中一个合同的相对方虽然不是其他合同的当事人，但是也参与了该其他合同的订立过程</p>
+<p><sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>由于合同联立情形旨在强调交易的经济整体性，即数个合同的结合旨在实现一个整体利益。因此，在合同联立的情况下，可以对“合同目的”作出超越单个合同目的的整体考量，即合同目的是指数个合同所能实现的整体的交易经济目标。</p>
+<p>王泽鉴教授认为，合同联立是指数个契约（典型或非典型）具有互相结合的关系。此结合包括两种情况，一是单纯外观的结合，即数个独立的契约仅因缔结契约的行为（如订立一个书面）而结合，相互间不具依存关系，即外观性联立；二是具有一定依存关系的结合，即依当事人之意思，一个契约的效力依存于另一个契约的效力，即功能性联立。</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>参见史尚宽：《债法总论》，中国政法大学出版社2000年版，第11页。&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>参见迟颖：《德国消费信贷法规中的关联合同制度》，《比较法研究》2006年第3期，第66~67页。&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>参见崔建远：《论合同目的及其不能实现》，《吉林大学社会科学学报》2015年第3期，第41~45页&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description></item><item><title>承担了保证责任的保证人对债务人追偿的权利范围</title><link>https://toshaojin.github.io/20210325/</link><pubDate>Thu, 25 Mar 2021 14:52:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20210325/</guid><description><![CDATA[<p>《民法典》第七百条规定</p>
+<blockquote>
+<p>保证人承担保证责任后,除当事人另有约定外,有权在其承担保证责任的范围内向债务人追偿,享有债权人对债务人的权利,但是不得损害债权人的利益。</p>
+</blockquote>
+<p>该条规定，保证人承担了保证责任后有权在所承担责任范围内，取得债权人对债务人对的权利，解决的是保证人向债务人追偿范围的问题，而非[[共同保证人之间的互相追偿]]问题。</p>
+<p>该条规定的<code>享有债权人对债务人的权利</code>具体范围是什么？
+《民法典》担保司法解释第十八条第二款规定：</p>
+<blockquote>
+<p>同一债权既有债务人自己提供的物的担保，又有第三人提供的担保，承担了担保责任或者赔偿责任的第三人，主张行使债权人对债务人享有的担保物权的，人民法院应予支持。</p>
+</blockquote>
+<p>保证人<code>享有债权人对债务人的权利</code>包括了债权人与债务人主合同项下的<code>对债务人</code>的所有权利义务，且如果存有债务人自身提供的担保物，保证人同时取得该担保物权。该规定是对于原合同法、担保法解释的突破。但，应当注意的是，该权利范围不包括债权人对其他担保人的权利。</p>
+<p>在《民法典》颁布之前，保证人履行担保责任后，并不能直接取得对债务人担保物的担保物权。理由是，保证人代偿之后，主债权因债权得到清偿而消灭，作为从债权的担保债权也随之消灭。因此，在此前实务中，保证人要么通过债权转让方式取得担保物权，要么代偿后以债权人名义行使权利以实现担保物权。《民法典》颁布之后，保证人依据上述规定可以直接取得对债务人担保物的优先权，且《民法典》已经明确对[[保证人受让债权的限制]]进行了规定，不认可存在两个以上第三人保证时，保证人通过受让方式取得主债权，而将该“转让”视作为保证责任的承担。依据《民法典》规定，可见，从现有理论来看，保证人代偿之后，主债权并不直接消灭，而产生拟制债权的转移效果。</p>]]></description></item><item><title>保全错误责任的归责</title><link>https://toshaojin.github.io/20210309/</link><pubDate>Tue, 09 Mar 2021 16:52:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20210309/</guid><description><![CDATA[<p>《民事诉讼法》第一百零五条规定</p>
 <blockquote>
 <p>申请有错误的，申请人应当赔偿被申请人因保全所遭受的损失。</p>
 </blockquote>
 <p>《民法典》第一千一百六十五条规定</p>
 <blockquote>
-<p>行为人因过错侵害他人民事权益造成损害的,应当承担侵权责任</p>]]></description></item><item><title>破产那些事儿（二）</title><link>https://toshaojin.github.io/posts/2020/12/20201226/</link><pubDate>Sat, 26 Dec 2020 15:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/12/20201226/</guid><description><![CDATA[<p>上周在破产资产处置过程中，又出现了一个问题──已处置车辆解封、过户问题。</p>
+<p>行为人因过错侵害他人民事权益造成损害的,应当承担侵权责任</p>
+</blockquote>
+<p>申请诉中财产保全损害责任应当按照《民法典》第一千一百六十五条规定来进行侵权构成要件分析，审查申请人是否存在恶意诉讼或重大过失，而不能仅以诉讼请求未获支持作为判定过错的依据。</p>
+<p>对此，最高人民法院已经存有多起既有判例支持。最高人民法院在民法典颁布后的(2020)最高法民终1316号判例中认为：</p>
+<blockquote>
+<p>申请诉讼财产保全错误造成被保 全人损失的为一般侵权行为，应按照一般侵权行为的构成要件来认定申请保全人是 否应赔偿相应损失。而对于申请诉讼财产保全的过错认定，不能仅以诉讼请求最终 未获得支持作为判断申请保全人是否存在过错的依据，而要采用通常的客观标准即 以普通人的注意义务作为判断标准。</p>
+</blockquote>]]></description></item><item><title>破产那些事儿（二）</title><link>https://toshaojin.github.io/20201226/</link><pubDate>Sat, 26 Dec 2020 15:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201226/</guid><description><![CDATA[<p>上周在破产资产处置过程中，又出现了一个问题──已处置车辆解封、过户问题。</p>
 <h2 id="原因">原因</h2>
-<p>之前在其他破产案件中处置过程中，其实操作过车辆处置之后的解除查封并办理过户，但是这次的问题一方面是自己没有把关，另一方面是法院帮了倒忙。</p>]]></description></item><item><title>破产那些事儿</title><link>https://toshaojin.github.io/posts/2020/12/20201223/</link><pubDate>Wed, 23 Dec 2020 21:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/12/20201223/</guid><description><![CDATA[<p>今天，破产拍卖物交接日，结果有点一团糟，还是掉以轻心了，没有及时盯住进度。</p>
+<p>之前在其他破产案件中处置过程中，其实操作过车辆处置之后的解除查封并办理过户，但是这次的问题一方面是自己没有把关，另一方面是法院帮了倒忙。</p>
+<h2 id="问题">问题</h2>
+<p>按照一般流程，破产案件中，破产资产都存在法院查封情形。在接管后，管理人其实已经对查封情况进行了核查。对于非破产受理法院的查封，管理人应当提前发函给查封法院进行解封。这样，在车辆处置后（包括司法拍卖、管理人直接变卖等方式），唯一查封或首封法院是破产法院，管理人只需要取得破产法院的解封裁定、过户裁定及相应协助执行通知，就可以配合买受人进行过户。</p>
+<p>而在本次案件实施过程中，作为管理人，我们已经发函给其他法院进行解封。本地法院一般不存在问题，但是外地法院往往由于沟通、规范性问题，往往不会及时进行解封处理。而幸好，本次拍卖机动车首封法院都是破产受理法院，但是，出了个差错：其实不需要法院进行解封处理，但主审法院出具解封裁定后，直接委托本院执行局解除了本院查封却没有解除外地法院查封，导致轮候查封的外地法院成了首封；这就导致管理人协助买受人过户时，无法解除查封进而无法进行过户处理。所以，可以说是，法院帮了倒忙。</p>
+<h2 id="经验总结">经验总结</h2>
+<p>按照之前的经验，破产法院作为首封法院，只要出具解封裁定书、过户裁定书以及要求登记部门协助解封、过户的协助执行通知书，管理人就可以办理变更登记手续。因此，管理人需要提前告知主审法官，暂时不需要法院解除查封，除非法院一同办理过户；否则，法院只需要将整套手续资料移交管理人，由管理人办理相应手续即可。</p>
+<p>那么，如果管理人在破产处置过程中，遇到外地法院首封情况，应该如何处理？我们可以借鉴执行程序中的做法：</p>
+<p>第一种方式：管理人申请破产法院进行查封，如果已经存在破产法院的查封就可以忽略。然后，管理人依据《企业破产法》第十九条规定<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>，申请前序的查封法院进行解封处理。</p>
+<p>第二种方式：如果前序查封法院不愿意自行解封处理（可能系因为路途或程序问题），管理人可以依据《最高人民法院关于委托执行若干问题的规定》第二条规定<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>，申请前序查封法院委托破产法院进行解封处理。</p>
+<p>第三种方式：管理人或破产受理法院可以依据《全国法院破产审判工作会议纪要》【法〔2018〕53号】第42条规定<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>，发函要求前序查封法院将查封财产处置权移送。查封法院不解除查封，出具移送执行/处置函，将查封财产的处置权转移给破产受理法院，破产受理法院凭上述移送执行函实现对查封财产的处置。具体的程序衔接，可以参照《最高人民法院关于首先查封法院与优先债权执行法院处分查封财产有关问题的批复》的相关内容予以处理。</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>人民法院受理破产申请后，有关债务人财产的保全措施应当解除，执行程序应当中止.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>委托异地法院协助查询、冻结、查封、调查或者送达法律文书等有关事项的，受托法院不作为委托执行案件立案办理，但应当积极予以协助.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>破产案件受理后查封措施的解除或查封财产的移送。执行法院收到破产受理裁定后，应当解除对债务人财产的查封、扣押、冻结措施；或者根据破产受理法院的要求，出具函件将查封、扣押、冻结财产的处置权交破产受理法院。破产受理法院可以持执行法院的移送处置函件进行续行查封、扣押、冻结，解除查封、扣押、冻结，或者予以处置。&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description></item><item><title>破产那些事儿</title><link>https://toshaojin.github.io/20201223/</link><pubDate>Wed, 23 Dec 2020 21:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201223/</guid><description><![CDATA[<p>今天，破产拍卖物交接日，结果有点一团糟，还是掉以轻心了，没有及时盯住进度。</p>
 <h1 id="通电问题">通电问题</h1>
 <p>这个问题其实已经提前预计到了，问题出在落实。明明已经提前安排，但是人员没有落实、计划没有落实、结果没有落实。人手紧缺是一方面，计划跟进也是一方面原因。
-因为供电局的线路通电只是负责到配电箱，而配电房将高压电转为工业用电还需要一级级分流，最终才能使用。而企业已经停产良久，电工也离开岗位，临时找电工相当困难。而幸好周边是工业厂区，所以最终从其他公司找来了电工师傅，开启的电路。</p>]]></description></item><item><title>物业服务那些事儿</title><link>https://toshaojin.github.io/posts/2020/06/20200601/</link><pubDate>Mon, 01 Jun 2020 17:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/06/20200601/</guid><description><![CDATA[<p></p>
+因为供电局的线路通电只是负责到配电箱，而配电房将高压电转为工业用电还需要一级级分流，最终才能使用。而企业已经停产良久，电工也离开岗位，临时找电工相当困难。而幸好周边是工业厂区，所以最终从其他公司找来了电工师傅，开启的电路。</p>
+<h1 id="移交">移交</h1>
+<h2 id="车辆移交">车辆移交</h2>
+<p>机动车移交是最方便的，基本上来买车子的都是做二手车生意的，司法拍卖是低价车最多的地方。于是，交接时只要签署交接文件，把相应车辆证件交付给买受人，基本就完事儿了。反而，因为没有通电，导致大门电动伸缩栅栏没法打开，车辆无法开出去，是个最头大的问题。最后，还是强行推开才解决的车辆出去难题。</p>
+<h2 id="大型设备移交">大型设备移交</h2>
+<p>成交物中，最昂贵的是三台注塑机，都是同一个买家竞拍成功，也方便我们进行移交。但是，没有预料到的是，每一台注塑机拆卸需要三天，三台注塑机就得将近十天。</p>
+<p>而且，拆卸注塑机必须得厂区通电。好在最后解决了电工师傅问题，无非是花了些成本。</p>
+<p>除了注塑机，一些塑料原材料、检具、模具，也都需要使用大型装卸设备和电力。</p>
+<p>因此，整个移交仍然需要较长时间。有了这次经验，以后同类移交就积累的经验，还是需要在事前进行完整的预案制作，模拟移交过程，否则期间过程中会出现各种问题，会让自己焦头烂额。</p>
+<h2 id="交接资料的准备">交接资料的准备</h2>
+<p>在交接之前，需要将成交确认书、移交确认书等与交接有关的书面文件一并打印，避免现场因为无电无网等原因无法打印。</p>
+<h1 id="资料的保管">资料的保管</h1>
+<p>在破产移交时，无论是否有评估报告或评估清单，应当对现场移交给管理人的所有资料，尽量核查并制作移交清单。这次也是因为偶然的原因拿到一个资产较多的破产项目，所以经验缺乏，此前都是资产几乎为零的执转破案件。</p>
+<p>移交清单核查后，由管理人与留守人员签署确认，便于后续资产处置。否则，后续拍卖中，可能会发生物品遗失而无法核查时间点的问题。</p>]]></description></item><item><title>物业服务那些事儿</title><link>https://toshaojin.github.io/20200601/</link><pubDate>Mon, 01 Jun 2020 17:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200601/</guid><description><![CDATA[<p></p>
 <h2 id="一注意物业管理合同的签订">一、注意物业管理合同的签订</h2>
-<p>如果是从前期物业企业或前手物业企业接收新的小区，注意签订或履行物业管理合同前，应当经专有部分占建筑物总面积过半数的业主且占总人数过半数的业主同意。</p>]]></description></item><item><title>疫情下，出租人如何应对承租人减免租金要求？</title><link>https://toshaojin.github.io/posts/2020/03/2020-3-25-zulin/</link><pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/03/2020-3-25-zulin/</guid><description><![CDATA[<!-- more -->
+<p>如果是从前期物业企业或前手物业企业接收新的小区，注意签订或履行物业管理合同前，应当经专有部分占建筑物总面积过半数的业主且占总人数过半数的业主同意。</p>
+<h2 id="二物业费的收取">二、物业费的收取</h2>
+<ol>
+<li>物业费的收取尽量公开透明，开具发票时列明具体科目；</li>
+<li>物业费应当及时催讨，通过张贴、邮寄等方式进行送达，同时以拍照、保存邮寄底单等方式保留证据。建议多种送达方式并用。</li>
+<li>目前民法总则对于诉讼时效进行了调整，由原先的两年调整为三年，建议物业费催缴不要超出该期限。</li>
+</ol>
+<h2 id="三物业服务的提供">三、物业服务的提供</h2>
+<p>在物业费纠纷中，业主针对物业费收取大多数抗辩物业公司服务不到位。有鉴于此，物业公司应在日常服务中注意服务提供的质量。</p>
+<ol>
+<li>对于业主提出的问题，应当作出书面等可留底的答复；</li>
+<li>日常物业进行的管理活动，适当加强宣传并保留相关凭证；</li>
+<li>注意公共部位的安全隐患，及时妥善排除危害；</li>
+<li>对于矛盾较为突出的物业管理：小区停车、垃圾堆放、外卖快递管理等，需要着重对待；</li>
+<li>注意日常的安保、巡逻、监控的管理；</li>
+<li>对于小区内业主违法搭建建筑物、构筑物，应当及时向政府主管部门反馈。</li>
+</ol>
+<h2 id="四涉及公共区域的管理">四、涉及公共区域的管理</h2>
+<ol>
+<li>设置在小区地面的车位，除非可以单独办理产权证，一般属于业主共有。物业公司如果收取停车费，该费用一般应属于业主共有，该费用可以用于抵扣物业费等费用。除非，业主大会授权物业公司收取并用于特定目的。</li>
+<li>小区屋顶、楼面属于业主共有，如物业公司用于广告位设置，相应收入性质同上。</li>
+<li>作为物业管理方，建筑物、构筑物或者其他设施及其搁置物、悬挂物发生脱落、坠落造成他人损害，要自身举证无过错，所以日常巡查应当特别注意，如发现问题，应当及时设置警示标志，并拍照留存。同时，及时安排维修或其他排除隐患的措施。</li>
+<li>防止高空坠物，一旦发现个别现象，应当及时张贴公告。</li>
+</ol>]]></description></item><item><title>疫情下，出租人如何应对承租人减免租金要求？</title><link>https://toshaojin.github.io/2020-3-25-zulin/</link><pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2020-3-25-zulin/</guid><description><![CDATA[<!-- more -->
 <h1 id="一承租人因疫情影响要求减免租金出租人是否必须同意">一、承租人因疫情影响要求减免租金，出租人是否必须同意？</h1>
 <p>《浙江省高级人民法院民事审判第一庭关于规范涉新冠肺炎疫情相关民事法律纠纷的实施意见（试行）》第7条规定：</p>
 <blockquote>
-<p>租赁房屋因疫情防控需要暂时无法使用的，承租人要求延长租期、减免相应期间的租金或解除合同，如确系不可归责于承租人、出租人的原因所致，可根据公平原则视情适当延长租期、减免租金，合理分担因疫情防控导致的不利后果。承租人以此要求解除合同的，一般不予支持。</p>]]></description></item><item><title>疫情下的移动微法院</title><link>https://toshaojin.github.io/posts/2020/03/2020-03-20-netcourt/</link><pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/03/2020-03-20-netcourt/</guid><description><![CDATA[<p>2020年初COVID-19疫情的大范围影响，导致很多移动互联网应用随之发生巨大改变。</p>
+<p>租赁房屋因疫情防控需要暂时无法使用的，承租人要求延长租期、减免相应期间的租金或解除合同，如确系不可归责于承租人、出租人的原因所致，可根据公平原则视情适当延长租期、减免租金，合理分担因疫情防控导致的不利后果。承租人以此要求解除合同的，一般不予支持。</p>
+</blockquote>
+<p>根据上述规定可见，只有在因疫情防控情形下暂时无法使用租赁房屋的，方可申请延长租期、或减免租金。如疫情期间，租赁房屋并不影响使用的，则出租人可不同意延长租期、或减免租金。</p>
+<p>同时，在符合减免租金或延长租期的条件情形下，出租人也是根据公平原则适当延长租期、或减免租金，而非一概全部减免租金或同期延长。</p>
+<p>因此，从上述《实施意见》可以看到，法院是从公平角度出发，在特定条件下，允许适当延长租期或减免租金。</p>
+<h1 id="二承租人是否可以依据疫情以不可抗力为由要求解除租赁合同">二、承租人是否可以依据疫情以不可抗力为由，要求解除租赁合同？</h1>
+<h2 id="一承租人要求合法解除">（一）承租人要求合法解除</h2>
+<p>根据《浙江省高级人民法院民事审判第一庭关于规范涉新冠肺炎疫情相关民事法律纠纷的实施意见（试行）》第7条规定，一般情况下，承租人以疫情不可抗力为由，要求解除租赁合同，法院不予支持。</p>
+<h2 id="二承租人违法单方解除">（二）承租人违法单方解除</h2>
+<p>根据租赁合同的特性，如果承租人不愿意继续履行合同，腾退房屋而强行不履行租赁合同，双方形成合同僵局，一概不允许违约方通过起诉的方式解除合同，有时对双方都不利，则法院判决继续履行合同的可能性就极低。</p>
+<p>但法院据此判决解除合同的，承租人本应当承担的违约责任不能因解除合同而减少或者免除。</p>
+<h1 id="三承租人违法解除合同情形下违约责任的承担">三、承租人违法解除合同情形下，违约责任的承担。</h1>
+<p>如前所述，即便合同解除，承租人仍应当按照合同约定及法律规定，承担违约责任。在合同有明确约定违约金的情况下，出租人可以主张违约金赔偿。合同没有约定违约金或违约金约定数额较低难以覆盖损失时，出租人可以主张实际损失赔偿，该赔偿可以是房屋空置期的租金损失，也可以另行寻租的租金差额损失。</p>
+<h1 id="四商业角度下的租金减免协商考量">四、商业角度下的租金减免协商考量</h1>
+<p>本次疫情对于酒店、餐饮、住宿的冲击显然是非常大的，该影响已非正常商业风险预估范围内，因此承租人提出合理的租金减免及延长租期的请求，也是合情合理的。</p>
+<p>作为出租人，完全不顾疫情影响，不适当调整原合同关于疫情期间租金或租期，似乎也违公平合理。在政府部门明确发文，指导企业适当减免相应费用的大背景下，建议出租人适当调整租金。</p>]]></description></item><item><title>疫情下的移动微法院</title><link>https://toshaojin.github.io/2020-03-20-netcourt/</link><pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2020-03-20-netcourt/</guid><description><![CDATA[<p>2020年初COVID-19疫情的大范围影响，导致很多移动互联网应用随之发生巨大改变。</p>
 <!-- more -->
-<p>从最初的移动通信计算出入武汉的数量及移动轨迹，到中期通过各种即时通讯发布疫情，到后期健康码的实行，以及各大外卖app下载、安装使用量急剧增加，移动互联网渗入疫情每一个角落。</p>]]></description></item><item><title>自定义Rime词库</title><link>https://toshaojin.github.io/posts/2020/03/2020-03-18-rime/</link><pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/03/2020-03-18-rime/</guid><description>&lt;p>从很早之前，就在macOS上安装了鼠须管，在Windows上安装了小狼毫。可能因为macOS相对用得比较少，而Windows用得相对较多，macOS的鼠须管输入效率很低，很多词都不能第一下匹配。所以，试着给鼠须管增加一下词库，毕竟法律方面的词汇应用较多，有必要加强一下这方面的输入效率。&lt;/p></description></item></channel></rss>
+<p>从最初的移动通信计算出入武汉的数量及移动轨迹，到中期通过各种即时通讯发布疫情，到后期健康码的实行，以及各大外卖app下载、安装使用量急剧增加，移动互联网渗入疫情每一个角落。</p>
+<p>疫情后期，作为法律人也开始陆续上班。初期，法院虽然上班，但其实为了防范疫情，基本不在线下开庭，而改为先上开庭。</p>
+<p>中国移动微法院，最早是在2018年1月在宁波余姚市人民法院先行试点，后推广至宁波市大市范围。之后，最高人民法院专门成立了项目组来宁波调研，并推广至全国。而因这次疫情，可以说，移动微法院发挥了巨大的作用。</p>
+<p>在疫情之前，移动微法院大部分是用来进行电子送达、补充证据质证、日常联系，在年轻法官中使用频率很高，但对于年龄相对较大的法官，使用频率并不高。而因此次疫情，移动微法院将线上开庭的功能发挥了出来。</p>
+<p>在复工之后，自己已经用移动微法院进行了数次开庭，包括破产债权人会议、文字形式开庭、视频开庭等。在难以线下开庭的情况下，移动微法院解决了部分当事人异地来往问题、疫情防控问题、诉讼进度问题。</p>
+<p>而且通过微法院，可以让当事人及时跟法官沟通，了解案件相关信息，知晓各方代理人的联系方式等，这也算互联网司法改革重要的一部分。</p>
+
+
+
+
+]]></description></item><item><title>自定义Rime词库</title><link>https://toshaojin.github.io/2020-03-18-rime/</link><pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2020-03-18-rime/</guid><description>&lt;p>从很早之前，就在macOS上安装了鼠须管，在Windows上安装了小狼毫。可能因为macOS相对用得比较少，而Windows用得相对较多，macOS的鼠须管输入效率很低，很多词都不能第一下匹配。所以，试着给鼠须管增加一下词库，毕竟法律方面的词汇应用较多，有必要加强一下这方面的输入效率。&lt;/p></description></item></channel></rss>

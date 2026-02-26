@@ -1,3 +1,17 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>域名 - 标签 - Manning`s Life</title><link>https://toshaojin.github.io/tags/%E5%9F%9F%E5%90%8D/</link><description>域名 - 标签 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 09 May 2020 21:16:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/%E5%9F%9F%E5%90%8D/" rel="self" type="application/rss+xml"/><item><title>折腾域名</title><link>https://toshaojin.github.io/posts/2020/05/20200512/</link><pubDate>Sat, 09 May 2020 21:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/05/20200512/</guid><description><![CDATA[<p>一直以为一个域名只能绑定一个服务，无论有多少个子域名，结果发现，原来可以绑定多个GitHub Page。</p>
-<p>原来的域名<a href="https://shaojin.me" target="_blank" rel="noopener noreffer ">shaojin.me</a>是在<a href="https://https://www.namesilo.com/" target="_blank" rel="noopener noreffer ">Namesilo</a>购买，使用默认DNS服务。</p>]]></description></item><item><title>免费域名</title><link>https://toshaojin.github.io/posts/2020/04/20200426/</link><pubDate>Sun, 26 Apr 2020 15:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/04/20200426/</guid><description><![CDATA[<p>因为搞了两个GitHub Page，第一个域名已经绑定在Gridea建的站，新站还没有域名。于是想着是否搞一个免费域名应急一下，一年期限也好。</p>
-<p>于是又找回了<a href="https://freenom.com" target="_blank" rel="noopener noreffer ">Freenom</a>，结果搜索后显示域名有效，结果点击后又显示不可用。Google了一下，发现了鸡贼之处，得用美国IP才可以，可能之前已经被伟大的祖国同胞撸疼了。</p>]]></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>域名 - Tag - Manning`s Life</title><link>https://toshaojin.github.io/tags/%E5%9F%9F%E5%90%8D/</link><description>域名 - Tag - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 09 May 2020 21:16:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/%E5%9F%9F%E5%90%8D/" rel="self" type="application/rss+xml"/><item><title>折腾域名</title><link>https://toshaojin.github.io/20200512/</link><pubDate>Sat, 09 May 2020 21:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200512/</guid><description><![CDATA[<p>一直以为一个域名只能绑定一个服务，无论有多少个子域名，结果发现，原来可以绑定多个GitHub Page。</p>
+<p>原来的域名<a href="https://shaojin.me" target="_blank" rel="noopener noreffer ">shaojin.me</a>是在<a href="https://https://www.namesilo.com/" target="_blank" rel="noopener noreffer ">Namesilo</a>购买，使用默认DNS服务。</p>
+<p>之前，开设了两个GitHub Page，一个用于Gridea，一个用Hugo搭建。因为就买了一个域名，就只绑定到了Gridea。为了自定义Hugo的域名，单独申请了一个免费域名。突然想起来，是否可以为<a href="https://shaojin.me" target="_blank" rel="noopener noreffer ">shaojin.me</a>创建一个子域名用来绑定另一个Page服务，顺便将域名解析服务转移到Cloudflare。</p>
+<p>注册完Cloudflare后，输入站点域名，Cloudflare会自动进行扫描，然后给出两个DNS 服务器名称，直接到<a href="https://https://www.namesilo.com/" target="_blank" rel="noopener noreffer ">Namesilo</a>域名管理后台进行更改，然后等待生效就可以。</p>
+<p>生效后，注意关闭Cloudflare的CDN服务，否则站点显示总存在问题，关闭后就正常了。</p>
+<p>然后，添加CNAME<code>blog.shaojin.me</code>这个子域名到Gridea关联的仓库，添加CNAME<code>shaojin.me</code>到Hugo的仓库。</p>
+<p>完美!</p>]]></description></item><item><title>免费域名</title><link>https://toshaojin.github.io/20200426/</link><pubDate>Sun, 26 Apr 2020 15:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200426/</guid><description><![CDATA[<p>因为搞了两个GitHub Page，第一个域名已经绑定在Gridea建的站，新站还没有域名。于是想着是否搞一个免费域名应急一下，一年期限也好。</p>
+<p>于是又找回了<a href="https://freenom.com" target="_blank" rel="noopener noreffer ">Freenom</a>，结果搜索后显示域名有效，结果点击后又显示不可用。Google了一下，发现了鸡贼之处，得用美国IP才可以，可能之前已经被伟大的祖国同胞撸疼了。</p>
+<p>域名注册方法：</p>
+<ol>
+<li>使用美国IP登录网站；</li>
+<li>在账户信息中填写美国地址，网上一搜一大把；</li>
+<li>将网站语言改为英语；</li>
+<li>搜索域名，购买即可。默认3个月，可以选择12个月免费。</li>
+</ol>
+<p>注册完域名后，到后台设置一下CNAME、A记录类型。再到GitHub Page仓库的设置界面填入域名，勾选强制HTTPS。</p>
+<p>设置完之后，等待生效即可。</p>]]></description></item></channel></rss>

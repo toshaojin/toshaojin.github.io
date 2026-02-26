@@ -1,3 +1,34 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>挂靠 - 标签 - Manning`s Life</title><link>https://toshaojin.github.io/tags/%E6%8C%82%E9%9D%A0/</link><description>挂靠 - 标签 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 18 Jan 2022 08:52:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/%E6%8C%82%E9%9D%A0/" rel="self" type="application/rss+xml"/><item><title>如何区分挂靠还是转包</title><link>https://toshaojin.github.io/posts/2022/01/20220118/</link><pubDate>Tue, 18 Jan 2022 08:52:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2022/01/20220118/</guid><description><![CDATA[<p>（2019）最高法民申 729 号民事裁定书中对挂靠和转包的区别进行了认定：</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>挂靠 - Tag - Manning`s Life</title><link>https://toshaojin.github.io/tags/%E6%8C%82%E9%9D%A0/</link><description>挂靠 - Tag - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 18 Jan 2022 08:52:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/%E6%8C%82%E9%9D%A0/" rel="self" type="application/rss+xml"/><item><title>如何区分挂靠还是转包</title><link>https://toshaojin.github.io/20220118/</link><pubDate>Tue, 18 Jan 2022 08:52:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20220118/</guid><description><![CDATA[<p>（2019）最高法民申 729 号民事裁定书中对挂靠和转包的区别进行了认定：</p>
 <blockquote>
-<p>区分转包和挂靠主要应从实际施工人（挂靠人）有没有参与投标和合同订立等缔约磋商阶段的活动加以判断。</p>]]></description></item></channel></rss>
+<p>区分转包和挂靠主要应从实际施工人（挂靠人）有没有参与投标和合同订立等缔约磋商阶段的活动加以判断。</p>
+</blockquote>
+<blockquote>
+<p><strong>转包</strong>是承包人承接工程后将工程的权利义务概括转移给实际施工人，转包中的实际施工人一般并未参与招投标和订立总承包合同，其承接工程的意愿一般是在总承包合同签订之后。</p>
+</blockquote>
+<blockquote>
+<p><strong>挂靠</strong>是承包人出借资质给实际施工人，挂靠关系中的挂靠人在投标和合同订立阶段一般就已经参与，甚至就是其以被挂靠人的代理人或代表的名义与发包人签订建设工程施工合同。</p>
+</blockquote>
+<blockquote>
+<p>一般而言，应当根据投标保证金的缴纳主体和资金来源、实际施工人（挂靠人）是否以承包人的委托代理人身份签订合同、实际施工人（挂靠人）有没有与发包人就合同事宜进行磋商等因素，审查认定属于挂靠还是转包。</p>
+</blockquote>
+<p>从法律效果来看，两者所产生的合同，也存在不同：</p>
+<p>最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）第一条第一款规定了施工合同的无效情形<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>，其中资质挂靠系情形之一，即意味着如果存在挂靠，发包人与承包人之间的施工合同将被认定为无效，此时视为挂靠人与发包人之间直接形成无效合同法律关系。</p>
+<p>而在转包情况下，承包人与实际施工人之间的合同才会被认定无效，发包人与承包人之间的施工合同仍有效。</p>
+<p>同时，依据上述司法解释第三十五条规定<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>，只有与发包人建立了合同关系的承包人，方能享有优先受偿权。据此，在挂靠情形下，基于挂靠人与发包人直接形成合同关系，则挂靠人可以据此享有优先受偿权。相反，转包情形下，因实际施工人与发包人之间并不存在合同关系，因此其不再享有优先受偿权。</p>
+<p>但是对于挂靠关系，是否真如上述（2019）最高法民申 729 号判决所述，一旦认定实际施工人与被挂靠人之间存在资质挂靠关系，就一概否定发包人与被挂靠承包人之间的施工合同关系呢？还是应当根据具体情况做分析：</p>
+<ol>
+<li>[[发包人知晓挂靠关系，发包人与挂靠人之间直接形成事实合同关系]]；</li>
+<li>[[发包人不知晓的情况下，其为善意相对人，不因挂靠关系的存在而直接认定施工合同无效]]。</li>
+</ol>
+<p>参考文献： <a href="https://mp.weixin.qq.com/s/qdnLr8PpAg42CKYhXb51Vw" target="_blank" rel="noopener noreffer ">是挂靠，还是转包？最高院这个判例终于说清楚了</a></p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>建设工程施工合同具有下列情形之一的，应当依据民法典第一百五十三条第一款的规定，认定无效：（一）承包人未取得建筑业企业资质或者超越资质等级的；（二）没有资质的实际施工人借用有资质的建筑施工企业名义的；（三）建设工程必须进行招标而未招标或者中标无效的。&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>与发包人订立建设工程施工合同的承包人，依据民法典第八百零七条的规定请求其承建工程的价款就工程折价或者拍卖的价款优先受偿的，人民法院应予支持。&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></description></item></channel></rss>

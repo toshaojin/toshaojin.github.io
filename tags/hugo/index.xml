@@ -1,3 +1,30 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hugo - 标签 - Manning`s Life</title><link>https://toshaojin.github.io/tags/hugo/</link><description>Hugo - 标签 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 22 Apr 2020 15:16:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/hugo/" rel="self" type="application/rss+xml"/><item><title>记录一下折腾过程中的一些代码</title><link>https://toshaojin.github.io/posts/2020/04/20200422/</link><pubDate>Wed, 22 Apr 2020 15:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/04/20200422/</guid><description>&lt;p>在这次折腾Hugo过程中，写到了一些命令，还是有必要备份一下，万一以后还会用到，就不用撞墙了。而且平时部署Hugo说不定还是频繁使用。&lt;/p></description></item><item><title>继续折腾博客</title><link>https://toshaojin.github.io/posts/2020/04/2020-04-21-newhugo/</link><pubDate>Tue, 21 Apr 2020 15:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/04/2020-04-21-newhugo/</guid><description><![CDATA[<h1 id="为什么折腾">为什么折腾？</h1>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hugo - Tag - Manning`s Life</title><link>https://toshaojin.github.io/tags/hugo/</link><description>Hugo - Tag - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 22 Apr 2020 15:16:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/hugo/" rel="self" type="application/rss+xml"/><item><title>记录一下折腾过程中的一些代码</title><link>https://toshaojin.github.io/20200422/</link><pubDate>Wed, 22 Apr 2020 15:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200422/</guid><description>&lt;p>在这次折腾Hugo过程中，写到了一些命令，还是有必要备份一下，万一以后还会用到，就不用撞墙了。而且平时部署Hugo说不定还是频繁使用。&lt;/p></description></item><item><title>继续折腾博客</title><link>https://toshaojin.github.io/2020-04-21-newhugo/</link><pubDate>Tue, 21 Apr 2020 15:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2020-04-21-newhugo/</guid><description><![CDATA[<h1 id="为什么折腾">为什么折腾？</h1>
 <p>没多久之前，刚折腾了新鲜的玩意儿──Gridea，利用这个软件搭建了Github Page。</p>
-<p>搭建完之后，又图新鲜买了个域名耍耍。之前，都是利用互联网资源蹭免费的域名玩。</p>]]></description></item></channel></rss>
+<p>搭建完之后，又图新鲜买了个域名耍耍。之前，都是利用互联网资源蹭免费的域名玩。</p>
+<!-- more -->
+<p>再然后呢？折腾完没几天，在博客也没输出些实质内容，就又开始瞎折腾了，折腾利用Hugo搭建博客。在遇到Gridea之前，搜索🔍到Hexo、Hugo等教程类文章。但是，苦于各类代码，看到头疼，就望而却步。</p>
+<p>但是，为什么现在反而又要尝试折腾了？因为，无意间发现很多Hugo搭建的博客，<del>皮肤</del> theme真漂亮。可能Gridea的theme不仅仅局限于官方的主题市场，但是受限于自己的技术能力，学习成本显然比较高，暂时无法利用其他资源去更换新皮肤，虽然现在用的<code>Fly</code>还是不错的。</p>
+<p>另一方面，还是有兴趣去接触一下这类好玩的东西，毕竟兴趣是做好事情的根本动力。</p>
+<h1 id="怎么折腾">怎么折腾？</h1>
+<p>折腾的过程比较复杂</p>
+<h2 id="起步">起步</h2>
+<p>在开始之前，Google了很多技术类文章，初步了解了一下大致方法，感觉还是能够驾驭操作的。主要参考的文章就是 <a href="https://mogeko.me/2018/018/" target="_blank" rel="noopener noreffer ">使用 Hugo + GitHub Pages 搭建个人博客</a>，基本上按照这个方法可以顺利完成搭建。当初也是因为看中这个博客的<del>皮肤</del> theme，才起了念头。</p>
+<h2 id="意外">意外</h2>
+<h3 id="问题1">问题1</h3>
+<p>在开始搭建之初，根本没有注意到一个GitHub账户只能搭建一个pages的问题。因此，一开始就在利用之前的Github账户新开了一个仓库，但是hugo渲染之后发现跟Gridea的站点冲突了，而且无法直接用*.github.io直接访问。但是，以之前搭建Gridea的经验，操作程序应该没问题。所以怀疑是不是Github的问题，万能Google告诉我，你蒙对了。</p>
+<p>于是，我的解决办法是，重新开一个Github账户。</p>
+<h3 id="问题2">问题2</h3>
+<p>在解决了问题1之后，按照教程，安装hugo、初始化、安装主题、新建文章、配置，然后卡在了发布阶段。</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-plaintext">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-plaintext" data-lang="plaintext"><span class="line"><span class="cl">git remote add origin https://github.com/<sup>Github 用户名</sup>/<sub>Github 用户名</sub>.github.io.git</span></span></code></pre></div></div>
+<p>在用上述命令将本地库关联到远程库时，发生了错误。提示<code>ERROR: Permission to XXX.git denied to YYY</code>。然后，在这个步骤卡了很久，Google了很多，最后发现是因为SSH密钥设置问题。因为之前可能已经用自己的电脑设置过GitHub，所以这台电脑只认之前的Github账户，不认我新设的账户。解决办法就是新设一个密钥，然后绑定到新设Github账户，教程在这里：</p>
+<ol>
+<li><a href="https://www.jianshu.com/p/12badb7e6c10" target="_blank" rel="noopener noreffer ">Git 最著名报错 “ERROR: Permission to XXX.git denied to user”终极解决方案</a>。</li>
+<li><a href="https://javahikers.github.io/2019/06/15/git-is-configured-with-multiple-ssh-keys/" target="_blank" rel="noopener noreffer ">Git配置多个SSH-Key</a>。</li>
+<li><a href="https://www.itrhx.com/2019/01/18/A16-deploy-two-or-more-hexo-blogs/" target="_blank" rel="noopener noreffer ">一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客</a>。</li>
+</ol>
+<p>解决了这个问题之后，就可以正常将本地库同步至远程库，完成搭建。</p>]]></description></item></channel></rss>

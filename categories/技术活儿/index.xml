@@ -1,10 +1,114 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>技术活儿 - 分类 - Manning`s Life</title><link>https://toshaojin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%B4%BB%E5%84%BF/</link><description>技术活儿 - 分类 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 24 Nov 2020 10:00:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%B4%BB%E5%84%BF/" rel="self" type="application/rss+xml"/><item><title>尝试利用Github Action自动化部署Hugo</title><link>https://toshaojin.github.io/posts/2020/11/20201124/</link><pubDate>Tue, 24 Nov 2020 10:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/11/20201124/</guid><description>&lt;h2 id="又开始折腾博客了">又开始折腾博客了&lt;/h2>
-&lt;p>之前，一直想尝试利用Github Action自动化部署Hugo。但是，本地好不容易搭建，怕又被我自己手贱折腾坏了，然后又是瞎忙活失败。毕竟自己是小白，这类玩意还是需要一定基础的。虽然，自己有时候想是不是学一下这方面的基础，但是大法已经让我有点筋疲力尽的感觉，实在是没有这个精力（允许自己找个理由和接口）。&lt;/p></description></item><item><title>测试</title><link>https://toshaojin.github.io/posts/2020/11/20201119/</link><pubDate>Thu, 19 Nov 2020 22:00:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/11/20201119/</guid><description>&lt;p>自动化失败&lt;/p></description></item><item><title>折腾域名</title><link>https://toshaojin.github.io/posts/2020/05/20200512/</link><pubDate>Sat, 09 May 2020 21:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/05/20200512/</guid><description><![CDATA[<p>一直以为一个域名只能绑定一个服务，无论有多少个子域名，结果发现，原来可以绑定多个GitHub Page。</p>
-<p>原来的域名<a href="https://shaojin.me" target="_blank" rel="noopener noreffer ">shaojin.me</a>是在<a href="https://https://www.namesilo.com/" target="_blank" rel="noopener noreffer ">Namesilo</a>购买，使用默认DNS服务。</p>]]></description></item><item><title>免费域名</title><link>https://toshaojin.github.io/posts/2020/04/20200426/</link><pubDate>Sun, 26 Apr 2020 15:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/04/20200426/</guid><description><![CDATA[<p>因为搞了两个GitHub Page，第一个域名已经绑定在Gridea建的站，新站还没有域名。于是想着是否搞一个免费域名应急一下，一年期限也好。</p>
-<p>于是又找回了<a href="https://freenom.com" target="_blank" rel="noopener noreffer ">Freenom</a>，结果搜索后显示域名有效，结果点击后又显示不可用。Google了一下，发现了鸡贼之处，得用美国IP才可以，可能之前已经被伟大的祖国同胞撸疼了。</p>]]></description></item><item><title>记录一下折腾过程中的一些代码</title><link>https://toshaojin.github.io/posts/2020/04/20200422/</link><pubDate>Wed, 22 Apr 2020 15:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/04/20200422/</guid><description>&lt;p>在这次折腾Hugo过程中，写到了一些命令，还是有必要备份一下，万一以后还会用到，就不用撞墙了。而且平时部署Hugo说不定还是频繁使用。&lt;/p></description></item><item><title>继续折腾博客</title><link>https://toshaojin.github.io/posts/2020/04/2020-04-21-newhugo/</link><pubDate>Tue, 21 Apr 2020 15:16:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/04/2020-04-21-newhugo/</guid><description><![CDATA[<h1 id="为什么折腾">为什么折腾？</h1>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>技术活儿 - Category - Manning`s Life</title><link>https://toshaojin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%B4%BB%E5%84%BF/</link><description>技术活儿 - Category - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 24 Nov 2020 10:00:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%B4%BB%E5%84%BF/" rel="self" type="application/rss+xml"/><item><title>尝试利用Github Action自动化部署Hugo</title><link>https://toshaojin.github.io/20201124/</link><pubDate>Tue, 24 Nov 2020 10:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201124/</guid><description><![CDATA[<h2 id="又开始折腾博客了">又开始折腾博客了</h2>
+<p>之前，一直想尝试利用Github Action自动化部署Hugo。但是，本地好不容易搭建，怕又被我自己手贱折腾坏了，然后又是瞎忙活失败。毕竟自己是小白，这类玩意还是需要一定基础的。虽然，自己有时候想是不是学一下这方面的基础，但是大法已经让我有点筋疲力尽的感觉，实在是没有这个精力（允许自己找个理由和接口）。</p>
+<p>这次本着“即便搞砸也要尝试”的决心，还是动手尝试了。新鲜玩意儿，总有让人一股莫名的冲动。</p>
+<h2 id="利用submodules管理theme">利用submodules管理Theme</h2>
+<p>借鉴了很多文章，网络上太多大佬，这个还比较容易。主要参考了这篇文章<a href="https://juejin.cn/post/6844903751908605965" target="_blank" rel="noopener noreffer ">在 hexo 中使用 git submodules 管理主題</a>。</p>
+<h3 id="使用">使用</h3>
+<p><code>git submodule add [主题链接] [主题存放目录] </code></p>
+<p>如果是在博客根目录，则存放目录为themes/[主题名称]；如果是在themes目录，则存放目录只要写[主题名称]。根据之前看过的教程，自己选择的主题，fork了一份到自己的GitHub。</p>
+<p>完成后，在博客根目录会产生一个.gitmodules的文件。内容为：</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-bash">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">[</span>submodule <span class="s2">&#34;themes/[主题名称]&#34;</span><span class="o">]</span> 
+</span></span><span class="line"><span class="cl"><span class="nv">path</span> <span class="o">=</span> themes/<span class="o">[</span>主题名称<span class="o">]</span>
+</span></span><span class="line"><span class="cl"><span class="nv">url</span> <span class="o">=</span> <span class="o">[</span>主题链接<span class="o">]</span></span></span></code></pre></div></div>
+<h3 id="更新">更新</h3>
+<p>根据教程，更新也是比较容易的。若主题作者有更新， 可通过两种方法来拉取主题的更新内容.</p>
+<ol>
+<li>进入<code>themes</code> 下主题目录, 执行 <code>git fetch</code> 和 <code>git merge origin/master</code> 来 merge 上游分支的修改</li>
+<li>直接运行 <code>git submodule update --remote</code>, Git 将会自动进入子模块然后抓取并更新</li>
+</ol>
+<p>更新后重新提交一遍, 子模块新的跟踪信息便也会记录到仓库中。像我采用fork了一份，应该重新fork一下就可以了吧？</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-bash">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">git submodule init
+</span></span><span class="line"><span class="cl">git submodule update</span></span></code></pre></div></div>
+<h3 id="删除子模块">删除子模块</h3>
+<p>因为自己在添加子模块过程添加错误，导致需要删除。于是，搜索了一番：</p>]]></description></item><item><title>测试</title><link>https://toshaojin.github.io/20201119/</link><pubDate>Thu, 19 Nov 2020 22:00:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20201119/</guid><description>&lt;p>自动化失败&lt;/p></description></item><item><title>折腾域名</title><link>https://toshaojin.github.io/20200512/</link><pubDate>Sat, 09 May 2020 21:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200512/</guid><description><![CDATA[<p>一直以为一个域名只能绑定一个服务，无论有多少个子域名，结果发现，原来可以绑定多个GitHub Page。</p>
+<p>原来的域名<a href="https://shaojin.me" target="_blank" rel="noopener noreffer ">shaojin.me</a>是在<a href="https://https://www.namesilo.com/" target="_blank" rel="noopener noreffer ">Namesilo</a>购买，使用默认DNS服务。</p>
+<p>之前，开设了两个GitHub Page，一个用于Gridea，一个用Hugo搭建。因为就买了一个域名，就只绑定到了Gridea。为了自定义Hugo的域名，单独申请了一个免费域名。突然想起来，是否可以为<a href="https://shaojin.me" target="_blank" rel="noopener noreffer ">shaojin.me</a>创建一个子域名用来绑定另一个Page服务，顺便将域名解析服务转移到Cloudflare。</p>
+<p>注册完Cloudflare后，输入站点域名，Cloudflare会自动进行扫描，然后给出两个DNS 服务器名称，直接到<a href="https://https://www.namesilo.com/" target="_blank" rel="noopener noreffer ">Namesilo</a>域名管理后台进行更改，然后等待生效就可以。</p>
+<p>生效后，注意关闭Cloudflare的CDN服务，否则站点显示总存在问题，关闭后就正常了。</p>
+<p>然后，添加CNAME<code>blog.shaojin.me</code>这个子域名到Gridea关联的仓库，添加CNAME<code>shaojin.me</code>到Hugo的仓库。</p>
+<p>完美!</p>]]></description></item><item><title>免费域名</title><link>https://toshaojin.github.io/20200426/</link><pubDate>Sun, 26 Apr 2020 15:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200426/</guid><description><![CDATA[<p>因为搞了两个GitHub Page，第一个域名已经绑定在Gridea建的站，新站还没有域名。于是想着是否搞一个免费域名应急一下，一年期限也好。</p>
+<p>于是又找回了<a href="https://freenom.com" target="_blank" rel="noopener noreffer ">Freenom</a>，结果搜索后显示域名有效，结果点击后又显示不可用。Google了一下，发现了鸡贼之处，得用美国IP才可以，可能之前已经被伟大的祖国同胞撸疼了。</p>
+<p>域名注册方法：</p>
+<ol>
+<li>使用美国IP登录网站；</li>
+<li>在账户信息中填写美国地址，网上一搜一大把；</li>
+<li>将网站语言改为英语；</li>
+<li>搜索域名，购买即可。默认3个月，可以选择12个月免费。</li>
+</ol>
+<p>注册完域名后，到后台设置一下CNAME、A记录类型。再到GitHub Page仓库的设置界面填入域名，勾选强制HTTPS。</p>
+<p>设置完之后，等待生效即可。</p>]]></description></item><item><title>记录一下折腾过程中的一些代码</title><link>https://toshaojin.github.io/20200422/</link><pubDate>Wed, 22 Apr 2020 15:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20200422/</guid><description>&lt;p>在这次折腾Hugo过程中，写到了一些命令，还是有必要备份一下，万一以后还会用到，就不用撞墙了。而且平时部署Hugo说不定还是频繁使用。&lt;/p></description></item><item><title>继续折腾博客</title><link>https://toshaojin.github.io/2020-04-21-newhugo/</link><pubDate>Tue, 21 Apr 2020 15:16:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2020-04-21-newhugo/</guid><description><![CDATA[<h1 id="为什么折腾">为什么折腾？</h1>
 <p>没多久之前，刚折腾了新鲜的玩意儿──Gridea，利用这个软件搭建了Github Page。</p>
-<p>搭建完之后，又图新鲜买了个域名耍耍。之前，都是利用互联网资源蹭免费的域名玩。</p>]]></description></item><item><title>再一次尝试博客</title><link>https://toshaojin.github.io/posts/2020/03/2020-03-11githubpage/</link><pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2020/03/2020-03-11githubpage/</guid><description><![CDATA[<!-- more -->
+<p>搭建完之后，又图新鲜买了个域名耍耍。之前，都是利用互联网资源蹭免费的域名玩。</p>
+<!-- more -->
+<p>再然后呢？折腾完没几天，在博客也没输出些实质内容，就又开始瞎折腾了，折腾利用Hugo搭建博客。在遇到Gridea之前，搜索🔍到Hexo、Hugo等教程类文章。但是，苦于各类代码，看到头疼，就望而却步。</p>
+<p>但是，为什么现在反而又要尝试折腾了？因为，无意间发现很多Hugo搭建的博客，<del>皮肤</del> theme真漂亮。可能Gridea的theme不仅仅局限于官方的主题市场，但是受限于自己的技术能力，学习成本显然比较高，暂时无法利用其他资源去更换新皮肤，虽然现在用的<code>Fly</code>还是不错的。</p>
+<p>另一方面，还是有兴趣去接触一下这类好玩的东西，毕竟兴趣是做好事情的根本动力。</p>
+<h1 id="怎么折腾">怎么折腾？</h1>
+<p>折腾的过程比较复杂</p>
+<h2 id="起步">起步</h2>
+<p>在开始之前，Google了很多技术类文章，初步了解了一下大致方法，感觉还是能够驾驭操作的。主要参考的文章就是 <a href="https://mogeko.me/2018/018/" target="_blank" rel="noopener noreffer ">使用 Hugo + GitHub Pages 搭建个人博客</a>，基本上按照这个方法可以顺利完成搭建。当初也是因为看中这个博客的<del>皮肤</del> theme，才起了念头。</p>
+<h2 id="意外">意外</h2>
+<h3 id="问题1">问题1</h3>
+<p>在开始搭建之初，根本没有注意到一个GitHub账户只能搭建一个pages的问题。因此，一开始就在利用之前的Github账户新开了一个仓库，但是hugo渲染之后发现跟Gridea的站点冲突了，而且无法直接用*.github.io直接访问。但是，以之前搭建Gridea的经验，操作程序应该没问题。所以怀疑是不是Github的问题，万能Google告诉我，你蒙对了。</p>
+<p>于是，我的解决办法是，重新开一个Github账户。</p>
+<h3 id="问题2">问题2</h3>
+<p>在解决了问题1之后，按照教程，安装hugo、初始化、安装主题、新建文章、配置，然后卡在了发布阶段。</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-plaintext">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-plaintext" data-lang="plaintext"><span class="line"><span class="cl">git remote add origin https://github.com/<sup>Github 用户名</sup>/<sub>Github 用户名</sub>.github.io.git</span></span></code></pre></div></div>
+<p>在用上述命令将本地库关联到远程库时，发生了错误。提示<code>ERROR: Permission to XXX.git denied to YYY</code>。然后，在这个步骤卡了很久，Google了很多，最后发现是因为SSH密钥设置问题。因为之前可能已经用自己的电脑设置过GitHub，所以这台电脑只认之前的Github账户，不认我新设的账户。解决办法就是新设一个密钥，然后绑定到新设Github账户，教程在这里：</p>
+<ol>
+<li><a href="https://www.jianshu.com/p/12badb7e6c10" target="_blank" rel="noopener noreffer ">Git 最著名报错 “ERROR: Permission to XXX.git denied to user”终极解决方案</a>。</li>
+<li><a href="https://javahikers.github.io/2019/06/15/git-is-configured-with-multiple-ssh-keys/" target="_blank" rel="noopener noreffer ">Git配置多个SSH-Key</a>。</li>
+<li><a href="https://www.itrhx.com/2019/01/18/A16-deploy-two-or-more-hexo-blogs/" target="_blank" rel="noopener noreffer ">一台电脑使用两个/多个GitHub账号部署两个/多个Hexo博客</a>。</li>
+</ol>
+<p>解决了这个问题之后，就可以正常将本地库同步至远程库，完成搭建。</p>]]></description></item><item><title>再一次尝试博客</title><link>https://toshaojin.github.io/2020-03-11githubpage/</link><pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2020-03-11githubpage/</guid><description><![CDATA[<!-- more -->
 <h1 id="历史">历史</h1>
 <p>很早之前就尝试过博客，但是自己是个钢铁工科男，写不了生活。</p>
-<p>模糊记得曾经玩过WordPress、Google Blogger，还利用免费的VPS搭建过WordPress，反正那时有的是时间、各种折腾着玩。后来，这些都是荒废的，因为不习惯于码字长文，于是经常在玩的也就是Twitter、Instagram、Foursquare等社交类app，以及可以串联这些服务的Tumblr。</p>]]></description></item><item><title>麻烦的案子（续）</title><link>https://toshaojin.github.io/posts/2011/12/2011-12-07-case/</link><pubDate>Wed, 07 Dec 2011 00:00:00 +0000</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2011/12/2011-12-07-case/</guid><description>&lt;p>第一次开庭结束，只进行到质证结束。&lt;/p>
-&lt;p>从开庭的过程来看，对方确认了我们支付保证金及第一期租金的事实，也承担此前反诉请求不当，并当庭进行了修正。而且也承担，涉案房屋现有用水来源于案外人天源公司，而非自身消防设备。但是仍坚持现在房屋已经具备提供消防用水的条件。&lt;/p></description></item></channel></rss>
+<p>模糊记得曾经玩过WordPress、Google Blogger，还利用免费的VPS搭建过WordPress，反正那时有的是时间、各种折腾着玩。后来，这些都是荒废的，因为不习惯于码字长文，于是经常在玩的也就是Twitter、Instagram、Foursquare等社交类app，以及可以串联这些服务的Tumblr。</p>
+<p>近期觉得Tumblr此前被廉价出售，会不会服务停摆。于是，就想着把Tumblr的文章导出来。</p>
+<h1 id="gridea-和-github-page">Gridea 和 GitHub Page</h1>
+<p>很早看到利用GitHub Page来创建个人博客的各类技术类文章，但每每看到命令行操作，就望而却步，所以一直没尝试。</p>
+<p>最近发现一个软件，很适合我这种小白──<a href="https://gridea.dev/" target="_blank" rel="noopener noreffer ">Gridea</a>。官网有快速上手指引文档，非常方便。当然还有其他人写的一些指引文章：</p>
+<ul>
+<li><a href="https://sspai.com/post/54212" target="_blank" rel="noopener noreffer ">Gridea 让你更方便地管理 Github Pages</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/71681116" target="_blank" rel="noopener noreffer ">Gridea 上手教程——小白也可以用的 GitHub Pages 搭建工具</a></li>
+</ul>
+<p>配置完成后，就可以利用Gridea来发布文章了。</p>
+<p></p>
+<h1 id="迁移">迁移</h1>
+<p>因为之前折腾过好几个博客，搭建还算顺利。每次折腾都会涉及到文章迁移问题，虽然有实质内容的文章其实并不多，毕竟文字功底较差，没东西写得出来。</p>
+<p>目前大部分记录日常生活的内容都留在Tumblr，包括一些通过IFTTT、foursquare、Twitter、Instagram等app同步的内容。怎么将这些内容方便的迁移到GitHub Page是一个问题。</p>
+<p>通过谷歌搜索，发现能从Tumblr直接迁移GitHub Page的工具几乎没有，难道要一个个手动导入？考虑到Gridea通过将MarkDown文档直接复制到posts文件夹可以直接导入文章。那么Tumblr是否能将文章导出为MarkDown文档呢？然而不可以，Tumblr导出的是xml格式的备份。如果Tumblr不行，Tumblr──Wordpress──MarkDown路径是否可行呢？可行，但是Wordpress需要安装专用插件，而安装插件需要收费。最后，兜兜转转，找到一个工具，xml转MarkDown的工具<a href="https://github.com/theaob/wpXml2Jekyll/releases" target="_blank" rel="noopener noreffer ">wpXml2Jekyll</a>。</p>
+<p>将转换完成后的MarkDown文档复制至Gridea的posts文件夹后，重新启动Gridea发现首页会一片空白、原有设置会全部消失。琢磨了很久应该是导入文档不匹配的问题，最终还是需要手动一个个修改MarkDown文档的信息头来解决这个问题，必须按照Gridea的MarkDown文档来。</p>
+<div class="code-block code-line-numbers open" style="counter-reset: code-block 0">
+    <div class="code-header language-">
+        <span class="code-title"><i class="arrow fas fa-angle-right" aria-hidden="true"></i></span>
+        <span class="ellipses"><i class="fas fa-ellipsis-h" aria-hidden="true"></i></span>
+        <span class="copy" title="Copy to clipboard"><i class="far fa-copy" aria-hidden="true"></i></span>
+    </div><pre tabindex="0"><code>title: &#39;再一次尝试博客&#39; //文章标的
+date: 2020-03-11 20:40:00 //文章日期
+tags: [博客,Github page,Gridea] //Gridea只支持tag
+published: true //是否发布
+hideInList: false //是否在列表中隐藏
+feature: 
+isTop: false  //是否置顶</code></pre></div>
+<p>所以，一个个手动用Typora修改文档，然后顺便回顾了以下以前的记录，也是好玩的，顺便把一些无关的Twitter推文和Instagram图片删除了。修改完成后，再将文档复制到posts文件夹后，重启Gridea就正常了。</p>]]></description></item><item><title>麻烦的案子（续）</title><link>https://toshaojin.github.io/2011-12-07-case/</link><pubDate>Wed, 07 Dec 2011 00:00:00 +0000</pubDate><author>Manning</author><guid>https://toshaojin.github.io/2011-12-07-case/</guid><description><![CDATA[<p>第一次开庭结束，只进行到质证结束。</p>
+<p>从开庭的过程来看，对方确认了我们支付保证金及第一期租金的事实，也承担此前反诉请求不当，并当庭进行了修正。而且也承担，涉案房屋现有用水来源于案外人天源公司，而非自身消防设备。但是仍坚持现在房屋已经具备提供消防用水的条件。</p>
+<p>我方重申起诉要求解除合同的根本理由在于被告交付的房屋不符合消防安全，具体是指不能提供消防水泵、泵房及消防用水。而目前房屋内的消防用水来源于案外人，被告并无使用权，我方也无使用权，而且即便有水，我方仍需要消防水泵及消防泵房。这些设备缺一不可，否则无法通过消防验收。对此，我方提供了具有资质的消防检测公司的检测报告，明确指明需要消防水泵及泵房。</p>
+<p>在庭审过程中，主审法官私下跟我说，双方的解除理由及赔偿请求均得不到法院支持。说，此前天一广场有大批租赁纠纷案，跟本案情形基本相符，即消防验收通不过所引起的租赁纠纷。而且，提供作为承租人的我方在本案中的合同注意义务，认为我们在租赁前没有核实消防设备而直接装修，由此产生的损失应当由我们自行承担。对此，我方直接指出，作为承租人的注意义务到核实房屋产权证为止，因为作为普通老百姓当然认为具备房产证的房屋在工程验收时当然通过消防验收，因此肯定具备消防设备。这是行政机关行政许可或登记行为的确信。承租人在确认出租人具备房产证后，即相信该房屋具有消防设备。相反，被告作为出租人，对自有房屋的状况显然更为清楚，无论是依据合同法诚实信用原则，还是如实告知义务，其均应当将该房屋不具备消防设备的真实状况告知原告，但其并没有。显然应承担全部赔偿责任。</p>
+<p>我认为，主审法官对于我方作为承租人所应承担的注意义务的见解，显然过于苛求承租人，而视出租人的合同义务与不顾。即便承租人未尽到注意义务，也只是较小的过错，相比较被告的重大过错，显然可忽略。同时，被告在收到原告多次催告后一直没有使房屋符合消防安全，显然构成根本违约。</p>
+<p>质证结束后，法院以相关证据需要向有关人员及政府消防机构核实为由休庭。</p>]]></description></item></channel></rss>

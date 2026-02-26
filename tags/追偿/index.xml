@@ -1,3 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>追偿 - 标签 - Manning`s Life</title><link>https://toshaojin.github.io/tags/%E8%BF%BD%E5%81%BF/</link><description>追偿 - 标签 - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Thu, 25 Mar 2021 14:52:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/%E8%BF%BD%E5%81%BF/" rel="self" type="application/rss+xml"/><item><title>承担了保证责任的保证人对债务人追偿的权利范围</title><link>https://toshaojin.github.io/posts/2021/03/20210325/</link><pubDate>Thu, 25 Mar 2021 14:52:34 +0800</pubDate><author>Manning字</author><guid>https://toshaojin.github.io/posts/2021/03/20210325/</guid><description><![CDATA[<p>《民法典》第七百条规定</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>追偿 - Tag - Manning`s Life</title><link>https://toshaojin.github.io/tags/%E8%BF%BD%E5%81%BF/</link><description>追偿 - Tag - Manning`s Life</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 25 Mar 2021 14:52:34 +0800</lastBuildDate><atom:link href="https://toshaojin.github.io/tags/%E8%BF%BD%E5%81%BF/" rel="self" type="application/rss+xml"/><item><title>承担了保证责任的保证人对债务人追偿的权利范围</title><link>https://toshaojin.github.io/20210325/</link><pubDate>Thu, 25 Mar 2021 14:52:34 +0800</pubDate><author>Manning</author><guid>https://toshaojin.github.io/20210325/</guid><description><![CDATA[<p>《民法典》第七百条规定</p>
 <blockquote>
-<p>保证人承担保证责任后,除当事人另有约定外,有权在其承担保证责任的范围内向债务人追偿,享有债权人对债务人的权利,但是不得损害债权人的利益。</p>]]></description></item></channel></rss>
+<p>保证人承担保证责任后,除当事人另有约定外,有权在其承担保证责任的范围内向债务人追偿,享有债权人对债务人的权利,但是不得损害债权人的利益。</p>
+</blockquote>
+<p>该条规定，保证人承担了保证责任后有权在所承担责任范围内，取得债权人对债务人对的权利，解决的是保证人向债务人追偿范围的问题，而非[[共同保证人之间的互相追偿]]问题。</p>
+<p>该条规定的<code>享有债权人对债务人的权利</code>具体范围是什么？
+《民法典》担保司法解释第十八条第二款规定：</p>
+<blockquote>
+<p>同一债权既有债务人自己提供的物的担保，又有第三人提供的担保，承担了担保责任或者赔偿责任的第三人，主张行使债权人对债务人享有的担保物权的，人民法院应予支持。</p>
+</blockquote>
+<p>保证人<code>享有债权人对债务人的权利</code>包括了债权人与债务人主合同项下的<code>对债务人</code>的所有权利义务，且如果存有债务人自身提供的担保物，保证人同时取得该担保物权。该规定是对于原合同法、担保法解释的突破。但，应当注意的是，该权利范围不包括债权人对其他担保人的权利。</p>
+<p>在《民法典》颁布之前，保证人履行担保责任后，并不能直接取得对债务人担保物的担保物权。理由是，保证人代偿之后，主债权因债权得到清偿而消灭，作为从债权的担保债权也随之消灭。因此，在此前实务中，保证人要么通过债权转让方式取得担保物权，要么代偿后以债权人名义行使权利以实现担保物权。《民法典》颁布之后，保证人依据上述规定可以直接取得对债务人担保物的优先权，且《民法典》已经明确对[[保证人受让债权的限制]]进行了规定，不认可存在两个以上第三人保证时，保证人通过受让方式取得主债权，而将该“转让”视作为保证责任的承担。依据《民法典》规定，可见，从现有理论来看，保证人代偿之后，主债权并不直接消灭，而产生拟制债权的转移效果。</p>]]></description></item></channel></rss>
